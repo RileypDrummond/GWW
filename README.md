@@ -10,7 +10,7 @@ INSTRUCTIONS
 ------------
 CHANGELOG
 
-V1.1
+V1
 
 -Added occHandbook
 
@@ -19,3 +19,12 @@ V1.1
 -Added webformAlreadyLoggedCaseNotes
 
 -Removed "Regards" in jobAlreadyLogged template
+
+V2
+
+-Merged IOMarkers & Email Templates into one file GWWTools
+
+-Added waterOffWorkSheet (IVR Template)
+
+-Added ceaseDischargeAnnouncement
+
