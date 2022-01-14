@@ -3,7 +3,7 @@
 INSTRUCTIONS
 
 1) Copy files into folder
-2) Set chrome to open page on startup
+2) Set chrome to open pages on startup
 3) Click on a email template and it will automatically copy to clipboard
 
 ------------
