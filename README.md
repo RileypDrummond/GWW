@@ -2,9 +2,10 @@
 ------------
 INSTRUCTIONS
 
-1) Copy files into folder
-2) Set chrome to open pages on startup
-3) Click on a email template and it will automatically copy to clipboard
+1) Download as zip by clicking on greem code drop down on the top right
+2) Copy files into folder
+3) Set chrome to open pages on startup
+4) Click on a email template and it will automatically copy to clipboard
 
 ------------
 CHANGELOG
