@@ -10,7 +10,7 @@ INSTRUCTIONS
 ------------
 CHANGELOG
 
-V1
+V1.1
 
 -Added occHandbook
 
@@ -20,11 +20,17 @@ V1
 
 -Removed "Regards" in jobAlreadyLogged template
 
-V2
+V1.2
 
 -Merged IOMarkers & Email Templates into one file GWWTools
 
 -Added waterOffWorkSheet (IVR Template)
 
 -Added ceaseDischargeAnnouncement
+
+V1.3
+
+-Seperated JS into own files
+
+-Seperated CSS into main CSS file
 
