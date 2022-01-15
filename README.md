@@ -1,6 +1,6 @@
 # GWW
 ------------
-**INSTRUCTIONS**
+INSTRUCTIONS
 
 1) Download as zip by clicking on greem code drop down on the top right
 2) Copy files into folder
@@ -8,7 +8,7 @@
 4) Click on a email template and it will automatically copy to clipboard
 
 ------------
-**CHANGELOG**
+CHANGELOG
 
 V1.1
 
