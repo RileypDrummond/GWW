@@ -38,3 +38,6 @@ V1.3
 
 -Added noWaterRecentBurstAssessmentComplete (No Water due to main being throttled)
 
+-Added prompts to replace blank spaces in email templates
+
+-Changed copy to clipboard method to use Async Clipboard Api
