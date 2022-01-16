@@ -1,7 +1,18 @@
 const blanksArrayAnswered = [];
 
-function alertPrompt(blanksArray = []) {
-	var i = 0;
+async function writeToClipboard(text) {
+		try {
+			await navigator.clipboard.writeText(text);
+				
+			console.log("Text copied:\n" + text); //DEBUG
+			} catch (error) {
+				console.log(error);
+			}
+		}
+
+
+async function alertPrompt(blanksArray = []) {
+	let i = 0;
 	for (const element of blanksArray){
 		blanksArrayAnswered[i] = prompt(blanksArray[i]);
 		
@@ -11,10 +22,13 @@ function alertPrompt(blanksArray = []) {
     }
 		
 		i++;
+
 		
 		//Debug
 		console.log(blanksArrayAnswered[i-1]);
 
 	}
+	
+	
 	
 }
